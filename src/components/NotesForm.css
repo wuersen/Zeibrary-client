@@ -1,0 +1,15 @@
+
+.form-container {
+  /* min-width: 300px;
+  padding: 10px;
+  background-color: white; */
+}
+textarea.textarea-form2{
+  overflow: auto;
+  resize: both;
+  min-width: 100%;
+  max-width: 100%;
+  height: 25em;
+  background: #fafafa;
+  border-radius: 15px;
+}
